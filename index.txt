@@ -1,1 +1,1 @@
-Linha 1: Conteúdo inicial
+Linha 1: Modificado na branch ajuste-texto
